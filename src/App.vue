@@ -1,5 +1,4 @@
 <template>
-  <div id="app">
   <span>app</span>
     </div>
 </template>
