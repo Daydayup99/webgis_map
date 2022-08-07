@@ -2,16 +2,6 @@
 <<<<<<< HEAD
   <div>
     <span>app</span>
-=======
-  <div id="app">
-    <el-container class="outpanel">
-      <el-header class="sys-header">一张图系统</el-header>
-      <el-container class="contpanel">
-        <el-aside width="200px" class="sys-menu">左侧菜单</el-aside>
-        <el-main>地图区域</el-main>
-      </el-container>
-    </el-container>
->>>>>>> 64ec1852fe669f67b47fe41b5b01a63b89fa33f2
   </div>
 </template>
 
